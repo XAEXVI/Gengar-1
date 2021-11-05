@@ -79,3 +79,5 @@ if escolha == 'Sim':
         print('Preparando sua ficha')
         print('____________________')
         print('Nome:', name,'\nPeso:', peso,'kg', '\nAltura:', altura,'metros', '\nNível:', nivel, '\nObjetivo:', objetivo ,'\nExercícios:',contentec, '\n',rep,'de cada')
+print('')
+print('Obrigado por usar o THE COACH.')
